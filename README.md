@@ -1,3 +1,3 @@
 # mhlpicgo
 
-利用GitHub + PicGo + Typora 搭建图床
+GitHub + PicGo + Typora 搭建自己的图床
